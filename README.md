@@ -13,3 +13,11 @@
 
 이를 통해 실제로는 실행시키면 양바퀴의 속도를 입력하면 그 방향으로 바퀴를 회전시키는 코드입니다
 ctrl + c 와 함께 입력하면 정지합니다.
+
+![2](https://github.com/user-attachments/assets/499c9de0-aeed-4adc-8096-fd23291b2915)
+
+ctrl + c 전의 모습
+
+![3](https://github.com/user-attachments/assets/00148fbb-ca86-4898-a4ed-1fea9478e647)
+
+ctrl + c 이후 모습
